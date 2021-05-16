@@ -1,0 +1,11 @@
+.box {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box svg path,
+.box svg rect {
+    fill: #65b6ee;
+}
