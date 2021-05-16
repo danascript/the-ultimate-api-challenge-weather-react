@@ -1,0 +1,14 @@
+.card {
+    border-radius: var(--main-border-radius);
+}
+
+.box {
+    border-radius: var(--main-border-radius);
+    -webkit-box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
+    background-color: var(--bg-color--card);
+    color: var(--main-text-color);
+    width: 85%;
+    max-width: 675px;
+    min-height: 300px;
+}

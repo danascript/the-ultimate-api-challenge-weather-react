@@ -1,0 +1,15 @@
+.weekday {
+    width: 100px;
+    border-radius: var(--secondary-border-radius);
+}
+
+.weekday:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    background: #fff;
+    color: #222831;
+
+    -webkit-box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 40px -5px rgba(0, 0, 0, 0.2);
+}
