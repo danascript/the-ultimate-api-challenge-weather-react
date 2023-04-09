@@ -4,7 +4,7 @@
 
 <div>
 <b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/weather-api-react" target="_blank" rel="noopener noreferrer"
+<a href="https://theultimateapichallenge.com/challenges/weather-api-react" target="_blank" rel="noopener noreferrer"
     style="padding:0.35rem 0.7rem;
     color: black;
     background: #BDFFF3;
